@@ -1,4 +1,4 @@
-# ReactBasics-UIElements
+# UI Elements for React
 
 ## What Does It Do
 * It displays each UI element with a label from a top-down nav on a single page
