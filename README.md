@@ -1,23 +1,22 @@
-# UI Elements for React
+# React UI Elements
 
 ## What Does It Do
 * It displays each UI element with a label from a top-down nav on a single page
 * This displays an example of what each element looks like
 
-## Why I Built It
+## Motivation
 * It gives me a bunch of template UI elements that can be used in future React projects
 
-## Tech Used
+## Stack
 * React
+  * Created a modern nav that changes without reloading due to Context
+  * Routed multiple components using custom hooks and createContext 
 * TailwindCSS
+  * Used to style the UI elements in an easy and uniform way 
 
-## What I Learned: Using Presentational Style Components
+## Closer Look: Using Presentational Style Components
 
 https://github.com/jetsetnofuture/ReactBasics-UIElements/assets/102395901/155c3a9e-c5af-480d-8022-d4e7b5518050
 
-* Using Tailwind CSS to more simply style UI components
-* Creating a modern nav that changes the page without reloading it using Context
-* Routing multiple components using custom hooks and createContext
-
-## To-Do List
+## Upcoming Features
 - [ ] Add more common components like log-in forms, breadcrumbs, pagination, and footer with social media icons
